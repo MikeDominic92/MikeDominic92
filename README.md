@@ -32,7 +32,7 @@ Technical Support Engineer with expertise in cloud automation and RAG-enhanced s
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mdhlee)
-- 🌐 [Portfolio](www.mdhoangportfolio.netlify.app//)
+- 🌐 [Portfolio](www.mdhoangportfolio.netlify.app/)
 - 📧 [Email](mailto:MDCheung92@gmail.com)
 
 ---
