@@ -31,9 +31,9 @@ Technical Support Engineer with expertise in cloud automation and RAG-enhanced s
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/mdhloc-5a4649248)
-- 🌐 [Portfolio](https://mdhoanportfolio.netlify.app/)
-- 📧 [Email](mailto:MDChoang92@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/mdhlee)
+- 🌐 [Portfolio](mdhoangportfolio.netlify.app//)
+- 📧 [Email](mailto:MDCheung92@gmail.com)
 
 ---
 
