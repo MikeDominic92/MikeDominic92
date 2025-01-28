@@ -8,6 +8,7 @@ Technical Support Engineer with expertise in cloud automation and RAG-enhanced s
 - **Automation & Scripting**: Python (RAG models, automation), Bash, PowerShell
 - **DevOps & CI/CD**: Jenkins, GitHub Actions, GitLab CI
 - **Security**: Vulnerability assessment, SSL/TLS, secure configurations
+- and much much more
 
 ## 🚀 Current Focus
 
@@ -15,6 +16,7 @@ Technical Support Engineer with expertise in cloud automation and RAG-enhanced s
 - Implementing RAG (Retrieval-Augmented Generation) models for enhanced support automation
 - Building scalable infrastructure using Kubernetes and Docker
 - Optimizing cloud resource management with Terraform and Ansible
+  
 
 ## 📈 Key Achievements
 
