@@ -18,12 +18,7 @@ Senior Technical Support Engineer with expertise in cloud automation and RAG-enh
 - Optimizing cloud resource management with Terraform and Ansible
   
 
-## 🎓 Certifications
 
-- **AWS**: Cloud Practitioner
-- **Cisco**: CCNA, DevNet Associate, Cybersecurity
-- **CompTIA**: Various certifications including Security+, Network+, and Cloud+
-- **ITIL**: Foundation Certification
 
 ## 📫 Connect With Me
 
