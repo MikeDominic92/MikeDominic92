@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Hoang
 
-Senior Technical Support Engineer with expertise in cloud automation and RAG-enhanced systems. I specialize in developing efficient solutions using Python and modern cloud technologies to optimize technical operations and support workflows. I like new technologies and will always be an Early Adopter. Creatd this github end of decemember.
+Senior Technical Support Engineer with expertise in cloud automation and RAG-enhanced systems. I specialize in developing efficient solutions using Python and modern cloud technologies to optimize technical operations and support workflows. I like new technologies and will always be an Early Adopter. Created this github end of decemember.
 
 ## 🔧 Technical Expertise
 
