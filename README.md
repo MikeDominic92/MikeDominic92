@@ -1,26 +1,8 @@
 # 👋 Hi, I'm Michael Hoang
 
-Senior Technical Support Engineer with expertise in cloud automation and RAG-enhanced systems. I specialize in developing efficient solutions using Python and modern cloud technologies to optimize technical operations and support workflows. I like new technologies and will always be an Early Adopter. Created this github end of decemember.
+Senior Technical Support Engineer with expertise in cloud automation and RAG-enhanced systems. I specialize in developing efficient solutions using Python and modern cloud technologies to optimize technical operations and support workflows. I like new technologies and will always be an Early Adopter currently right now is learning the best practices of security and usecases for cloud with implementing new techniques such as ai to improve effienceny in technologies and studying and keeping up to date with the latest technologies to use it to my benefit. . Created this Github Early Jan 
 
-## 🔧 Technical Expertise
-
-- **Cloud & Infrastructure**: AWS, GCP, Azure, Kubernetes, Docker, Terraform
-- **Automation & Scripting**: Python (RAG models, automation), Bash, PowerShell
-- **DevOps & CI/CD**: Jenkins, GitHub Actions, GitLab CI
-- **Security**: Vulnerability assessment, SSL/TLS, secure configurations
-- and much much more
-
-## 🚀 Current Focus
-
-- Developing cloud automation solutions with Python for real-time diagnostics
-- Implementing RAG (Retrieval-Augmented Generation) models for enhanced support automation
-- Building scalable infrastructure using Kubernetes and Docker
-- Optimizing cloud resource management with Terraform and Ansible
-  
-
-
-
-## 📫 Connect With Me
+## Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mdhlee)
 - 🌐 [Portfolio](https://mdhoangportfolio.netlify.app/)
