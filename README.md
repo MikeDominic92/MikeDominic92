@@ -9,15 +9,14 @@ Currently working on multiple projects specifically focused on emerging technolo
 
 Why GCP? With Google now leading the forefront of AI and considered a powerhouse in the tech industry and the golden standard, I'm investing in this platform. In 2025 alone, Google has demonstrated that it will be at the forefront and has taken over the AI sector with leading technologies such as Notebook LLM and agents for the entire Google ecosystem. Now with the introduction of Google Cloud Sec v1 on April 9, I want to master next-generation cloud security and become a leading Cloud Security Researcher. This GitHub profile showcases select projects that demonstrate my capabilities.
 
-While I love developing projects, due to privacy and security concerns, I cannot share everything I work on. However, I hope the projects displayed here effectively demonstrate my skills.
-
 For freelancing/ Consultating/ Job Opportunities, please reach out to me on LinkedIn or via email using the links below.
 
-Connect With Me
-🔗 LinkedIn
-🌐 Portfolio
-📧 Email
+## Connect With Me
 
-Disclaimer, I never needed to use github but thisis more of my personal journal
+- 🔗 [LinkedIn](https://linkedin.com/in/mdhlee)
+- 🌐 [Portfolio](https://mdhoangportfolio.netlify.app/)
+- 📧 [Email](mailto:MDCheung92@gmail.com)
+
+Disclaimer, I will be using this as more as my documentation and journal when building projects. 
 
 *Currently working on innovative cloud automation solutions and exploring advanced AI integration in technical support workflows using the best security policies*
