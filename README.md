@@ -1,6 +1,7 @@
 👋 Hi, I'm Mike
 
-Senior Technical Support Engineer with expertise in cloud automation and RAG-enhanced systems. I specialize in developing efficient solutions using Python and modern cloud technologies to optimize technical operations and support workflows.
+Senior Technical Support Engineer with expertise in cloud automation and RAG-enhanced systems. I specialize in developing efficient solutions using Python and modern cloud technologies to optimize technical operations and support workflows. 
+
 
 I'm passionate about new technologies and am known as an early adopter.
 
@@ -16,5 +17,7 @@ Connect With Me
 🔗 LinkedIn
 🌐 Portfolio
 📧 Email
+
+Disclaimer, I never needed to use github but thisis more of my personal journal
 
 *Currently working on innovative cloud automation solutions and exploring advanced AI integration in technical support workflows using the best security policies*
