@@ -34,6 +34,7 @@ Building secure, scalable identity solutions with a focus on Zero Trust architec
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Security & ML**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -44,12 +45,13 @@ Building secure, scalable identity solutions with a focus on Zero Trust architec
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**ZeroTrust-IAM-Analyzer**](https://github.com/MikeDominic92/ZeroTrust-IAM-Analyzer) | Zero Trust policy analyzer for GCP IAM with security scoring | Python, FastAPI, GCP |
-| [**IAM-Immune-System**](https://github.com/MikeDominic92/iam-immune-system) | AI-powered real-time detection & auto-remediation of IAM threats | Python, GCP, ML |
-| [**Keyless-Kingdom**](https://github.com/MikeDominic92/keyless-kingdom) | Passwordless cloud auth using OIDC workload identity federation | Terraform, GitHub Actions |
-| [**PAM-Vault-Lab**](https://github.com/MikeDominic92/pam-vault-lab) | HashiCorp Vault PAM lab with hands-on exercises | Vault, Docker, Ansible |
-| [**Okta-SSO-Hub**](https://github.com/MikeDominic92/okta-sso-hub) | Enterprise SSO demo with SAML, OIDC, SCIM | Okta, React, Flask, Node.js |
-| [**AI-Access-Sentinel**](https://github.com/MikeDominic92/ai-access-sentinel) | ML-powered access analytics & anomaly detection | Python, scikit-learn, Streamlit |
+| [**AI-Access-Sentinel**](https://github.com/MikeDominic92/ai-access-sentinel) | ITDR platform with ML anomaly detection, UEBA, and deep learning | Python, TensorFlow, FastAPI |
+| [**ZeroTrust-IAM-Analyzer**](https://github.com/MikeDominic92/ZeroTrust-IAM-Analyzer) | CIEM platform - excessive permissions, least-privilege scoring | Python, FastAPI, React |
+| [**Entra-ID-Governance**](https://github.com/MikeDominic92/entra-id-governance) | Microsoft Entra ID automation - Conditional Access, PIM | Python, Graph API, PowerShell |
+| [**IAM-Immune-System**](https://github.com/MikeDominic92/iam-immune-system) | Event-driven security with machine identity monitoring | Python, AWS Lambda, EventBridge |
+| [**Keyless-Kingdom**](https://github.com/MikeDominic92/keyless-kingdom) | Passwordless CI/CD with OIDC federation (AWS/GCP/Azure) | Terraform, GitHub Actions |
+| [**PAM-Vault-Lab**](https://github.com/MikeDominic92/pam-vault-lab) | HashiCorp Vault PAM lab for certification prep | Vault, Docker, Ansible |
+| [**Okta-SSO-Hub**](https://github.com/MikeDominic92/okta-sso-hub) | Multi-protocol SSO with SAML, OIDC, SCIM, Passkeys | React, Flask, WebAuthn |
 
 ---
 
