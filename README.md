@@ -1,25 +1,25 @@
-# Hey, I'm Dominic (Dom) Hoang 👋
+# Hey, I'm Dominic (Dom) Hoang
 
-## 🔐 Identity & Access Management Engineer | Zero Trust Architect | Security Automation
+## Identity & Access Management Engineer | Zero Trust Architect | Security Automation
 
 I build secure, scalable identity solutions. My focus is Zero Trust architecture, AI-powered security automation, and multi-cloud IAM.
 
-🎯 **Looking for IAM Engineer and GRC Analyst roles** — I've got hands-on experience with identity governance, access management, and security compliance.
+**Looking for IAM Engineer and GRC Analyst roles** — I've got hands-on experience with identity governance, access management, and security compliance.
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
 I'm a security guy who loves building IAM solutions and breaking down Zero Trust into something that actually works. I take messy identity and access problems and turn them into clean, automated systems. I've worked across identity governance, privileged access management, and compliance automation in cloud environments.
 
 What I'm working on right now:
-- 🛡️ **Identity Governance & Administration** — access reviews, lifecycle management, RBAC
-- 📋 **GRC** — SOC 2, ISO 27001, NIST frameworks, automating policy stuff
-- ☁️ **Cloud Security** — multi-cloud IAM, least-privilege, CIEM
+- **Identity Governance & Administration** — access reviews, lifecycle management, RBAC
+- **GRC** — SOC 2, ISO 27001, NIST frameworks, automating policy stuff
+- **Cloud Security** — multi-cloud IAM, least-privilege, CIEM
 
 ---
 
-### 💼 What I Do
+### What I Do
 
 - Design and build **Zero Trust IAM frameworks** across Azure AD, Okta, AWS, and GCP
 - Build **AI/ML models** for catching weird access patterns and predicting identity risks
@@ -28,7 +28,7 @@ What I'm working on right now:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Identity & Access**
 ![Azure AD](https://img.shields.io/badge/-Azure%20AD-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -54,7 +54,7 @@ What I'm working on right now:
 
 ---
 
-### 🚀 Featured IAM Projects
+### Featured IAM Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -68,16 +68,16 @@ What I'm working on right now:
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- ✅ CompTIA Security+
-- ✅ Cisco CCNA
-- ✅ Microsoft SC-300 (Identity and Access Administrator)
-- 📚 *In Progress:* Okta Certified Professional, CyberArk PAM-DEF
+- CompTIA Security+
+- Cisco CCNA
+- Microsoft SC-300 (Identity and Access Administrator)
+- *In Progress:* Okta Certified Professional, CyberArk PAM-DEF
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeDominic92&show_icons=true&theme=dark&hide_border=true)
 
@@ -85,16 +85,16 @@ What I'm working on right now:
 
 ---
 
-### 📬 Get In Touch
+### Get In Touch
 
-📞 **(929) 520-0670**
-✉️ **DominicMH@pm.me**
-🌐 **[mikedominic-portfolio.netlify.app](https://mikedominic-portfolio.netlify.app)**
-💻 **[github.com/mikedominic92](https://github.com/mikedominic92)**
+**(929) 520-0670**
+**DominicMH@pm.me**
+**[mikedominic-portfolio.netlify.app](https://mikedominic-portfolio.netlify.app)**
+**[github.com/mikedominic92](https://github.com/mikedominic92)**
 
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:DominicMH@pm.me)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://mikedominic-portfolio.netlify.app)
 
 ---
 
-*"I like to test things, break things, fix things, and find a more efficient way of doing things."* 🔧
+*"I like to test things, break things, fix things, and find a more efficient way of doing things."*
