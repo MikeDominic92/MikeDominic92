@@ -11,7 +11,9 @@ New York | (929) 520-0670 | DominicMH@pm.me
 
 5+ years in cloud security and technical support, specializing in Identity & Access Management. Hands-on experience with AWS IAM, Azure AD, Active Directory, and access governance. I build IAM solutions focused on Zero Trust architecture, privileged access management, and identity analytics.
 
-**Looking for IAM Engineer and GRC Analyst roles.**
+**Looking for IAM/PAM Engineer and GRC Analyst, Threat Vulnerability Management roles.**
+
+Doing free lance work as well please don't hesistate to message me . 
 
 ---
 
