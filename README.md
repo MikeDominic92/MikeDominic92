@@ -180,23 +180,6 @@ HashiCorp Vault PAM with AWS Secrets Manager sync. Okta Workflows automation wit
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeDominic92&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDominic92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeDominic92&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MikeDominic92&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
 <p align="center">
   <strong>Building enterprise identity security at scale.</strong>
   <br/>
