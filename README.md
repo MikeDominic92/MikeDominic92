@@ -4,6 +4,19 @@
 
 Building secure, scalable identity solutions with a focus on Zero Trust architecture, AI-powered security automation, and multi-cloud IAM.
 
+**Actively seeking IAM Engineer and GRC Analyst opportunities** where I can apply my hands-on experience in identity governance, access management, and security compliance.
+
+---
+
+### About Me
+
+Security professional with practical experience building IAM solutions and implementing Zero Trust frameworks. I specialize in translating complex identity and access requirements into automated, scalable systems. My background spans identity governance, privileged access management, and compliance automation across enterprise cloud environments.
+
+Currently focused on:
+- **Identity Governance & Administration (IGA)** - Access reviews, lifecycle management, role-based access control
+- **Governance, Risk & Compliance (GRC)** - SOC 2, ISO 27001, NIST frameworks, policy automation
+- **Cloud Security Posture** - Multi-cloud IAM, least-privilege enforcement, CIEM
+
 ---
 
 ### What I Do
@@ -72,10 +85,16 @@ Building secure, scalable identity solutions with a focus on Zero Trust architec
 
 ---
 
-### Connect
+### Connect With Me
+
+**Phone:** (929) 520-0670
+**Email:** DominicMH@pm.me
+**Portfolio:** [mikedominic-portfolio.netlify.app](https://mikedominic-portfolio.netlify.app)
+**GitHub:** [github.com/mikedominic92](https://github.com/mikedominic92)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:DominicMH@pm.me)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://mikedominic-portfolio.netlify.app)
 
 ---
 
