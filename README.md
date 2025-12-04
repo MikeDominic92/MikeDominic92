@@ -1,34 +1,34 @@
-# Hi, I'm Dominic (Dom) Hoang
+# Hey, I'm Dominic (Dom) Hoang 👋
 
-## Identity & Access Management Engineer | Zero Trust Architect | Security Automation
+## 🔐 Identity & Access Management Engineer | Zero Trust Architect | Security Automation
 
-Building secure, scalable identity solutions with a focus on Zero Trust architecture, AI-powered security automation, and multi-cloud IAM.
+I build secure, scalable identity solutions. My focus is Zero Trust architecture, AI-powered security automation, and multi-cloud IAM.
 
-**Actively seeking IAM Engineer and GRC Analyst opportunities** where I can apply my hands-on experience in identity governance, access management, and security compliance.
-
----
-
-### About Me
-
-Security professional with practical experience building IAM solutions and implementing Zero Trust frameworks. I specialize in translating complex identity and access requirements into automated, scalable systems. My background spans identity governance, privileged access management, and compliance automation across enterprise cloud environments.
-
-Currently focused on:
-- **Identity Governance & Administration (IGA)** - Access reviews, lifecycle management, role-based access control
-- **Governance, Risk & Compliance (GRC)** - SOC 2, ISO 27001, NIST frameworks, policy automation
-- **Cloud Security Posture** - Multi-cloud IAM, least-privilege enforcement, CIEM
+🎯 **Looking for IAM Engineer and GRC Analyst roles** — I've got hands-on experience with identity governance, access management, and security compliance.
 
 ---
 
-### What I Do
+### 🙋‍♂️ About Me
 
-- Design and implement **Zero Trust IAM frameworks** across Azure AD, Okta, AWS, and GCP
-- Build **AI/ML models** for access anomaly detection and predictive identity governance
+I'm a security guy who loves building IAM solutions and breaking down Zero Trust into something that actually works. I take messy identity and access problems and turn them into clean, automated systems. I've worked across identity governance, privileged access management, and compliance automation in cloud environments.
+
+What I'm working on right now:
+- 🛡️ **Identity Governance & Administration** — access reviews, lifecycle management, RBAC
+- 📋 **GRC** — SOC 2, ISO 27001, NIST frameworks, automating policy stuff
+- ☁️ **Cloud Security** — multi-cloud IAM, least-privilege, CIEM
+
+---
+
+### 💼 What I Do
+
+- Design and build **Zero Trust IAM frameworks** across Azure AD, Okta, AWS, and GCP
+- Build **AI/ML models** for catching weird access patterns and predicting identity risks
 - Automate **privileged access management** with HashiCorp Vault and CyberArk patterns
-- Create **passwordless authentication** systems using OIDC workload identity federation
+- Create **passwordless auth** systems using OIDC workload identity federation
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Identity & Access**
 ![Azure AD](https://img.shields.io/badge/-Azure%20AD-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -54,13 +54,13 @@ Currently focused on:
 
 ---
 
-### Featured IAM Projects
+### 🚀 Featured IAM Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**AI-Access-Sentinel**](https://github.com/MikeDominic92/ai-access-sentinel) | ITDR platform with ML anomaly detection, UEBA, and deep learning | Python, TensorFlow, FastAPI |
-| [**ZeroTrust-IAM-Analyzer**](https://github.com/MikeDominic92/ZeroTrust-IAM-Analyzer) | CIEM platform - excessive permissions, least-privilege scoring | Python, FastAPI, React |
-| [**Entra-ID-Governance**](https://github.com/MikeDominic92/entra-id-governance) | Microsoft Entra ID automation - Conditional Access, PIM | Python, Graph API, PowerShell |
+| [**ZeroTrust-IAM-Analyzer**](https://github.com/MikeDominic92/ZeroTrust-IAM-Analyzer) | CIEM platform — catches excessive permissions, scores least-privilege | Python, FastAPI, React |
+| [**Entra-ID-Governance**](https://github.com/MikeDominic92/entra-id-governance) | Microsoft Entra ID automation — Conditional Access, PIM | Python, Graph API, PowerShell |
 | [**IAM-Immune-System**](https://github.com/MikeDominic92/iam-immune-system) | Event-driven security with machine identity monitoring | Python, AWS Lambda, EventBridge |
 | [**Keyless-Kingdom**](https://github.com/MikeDominic92/keyless-kingdom) | Passwordless CI/CD with OIDC federation (AWS/GCP/Azure) | Terraform, GitHub Actions |
 | [**PAM-Vault-Lab**](https://github.com/MikeDominic92/pam-vault-lab) | HashiCorp Vault PAM lab for certification prep | Vault, Docker, Ansible |
@@ -68,16 +68,16 @@ Currently focused on:
 
 ---
 
-### Certifications
+### 📜 Certifications
 
-- CompTIA Security+
-- Cisco CCNA
-- Microsoft SC-300 (Identity and Access Administrator)
-- *In Progress:* Okta Certified Professional, CyberArk PAM-DEF
+- ✅ CompTIA Security+
+- ✅ Cisco CCNA
+- ✅ Microsoft SC-300 (Identity and Access Administrator)
+- 📚 *In Progress:* Okta Certified Professional, CyberArk PAM-DEF
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeDominic92&show_icons=true&theme=dark&hide_border=true)
 
@@ -85,17 +85,16 @@ Currently focused on:
 
 ---
 
-### Connect With Me
+### 📬 Get In Touch
 
-**Phone:** (929) 520-0670
-**Email:** DominicMH@pm.me
-**Portfolio:** [mikedominic-portfolio.netlify.app](https://mikedominic-portfolio.netlify.app)
-**GitHub:** [github.com/mikedominic92](https://github.com/mikedominic92)
+📞 **(929) 520-0670**
+✉️ **DominicMH@pm.me**
+🌐 **[mikedominic-portfolio.netlify.app](https://mikedominic-portfolio.netlify.app)**
+💻 **[github.com/mikedominic92](https://github.com/mikedominic92)**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:DominicMH@pm.me)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://mikedominic-portfolio.netlify.app)
 
 ---
 
-*"I like to test things, break things, fix things, and find a more efficient way of doing things."*
+*"I like to test things, break things, fix things, and find a more efficient way of doing things."* 🔧
