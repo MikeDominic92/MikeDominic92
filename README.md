@@ -18,11 +18,13 @@
 
 ## About Me
 
-Building **enterprise identity security at scale**. I architect Zero Trust solutions across AWS, Azure, and GCP for organizations managing thousands of identities and millions of entitlements.
+**Cybersecurity Engineer with 10+ years** in Cybersecurity and Technical Support, specializing in **Identity & Access Management**. Hands-on experience with AWS IAM, Entra ID, Active Directory, and access governance. Focused on **Zero Trust architecture**, privileged access management, and cloud identity security.
 
-**Currently**: Leading IAM security initiatives including CIEM implementation, ITDR deployment, and IGA automation.
+Integrating **AI/ML for identity threat detection**, anomaly-based risk scoring, and intelligent access analytics.
 
-**Open to**: Senior IAM Engineer, IAM Architect, and Identity Security Lead roles.
+**Currently**: Threat & Vulnerability Management Engineer enforcing least privilege with SailPoint IdentityIQ, configuring ITDR rules in CrowdStrike Falcon, and investigating access-related incidents with Splunk SIEM.
+
+**Open to**: IAM Engineer, Cloud Security Engineer, and Identity Security roles.
 
 ---
 
