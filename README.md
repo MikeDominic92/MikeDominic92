@@ -1,100 +1,204 @@
-# Dominic M. Hoang
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Identity+%26+Access+Management+Architect;Cloud+Security+Engineer;Zero+Trust+Strategist;10%2B+Years+Securing+Enterprise+Environments" alt="Typing SVG" />
+</h1>
 
-**Identity & Access Management Engineer | Cloud Security | Zero Trust**
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Identity_Security-00D9FF?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Experience-10%2B_Years-blueviolet?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Location-New_York-success?style=for-the-badge" alt="Location"/>
+</p>
 
-New York | (929) 520-0670 | DominicMH@pm.me
-[Portfolio](https://mikedominic-portfolio.netlify.app) | [GitHub](https://github.com/mikedominic92)
-
----
-
-## About
-
-10+ years in  Cyber Security and Technical Support, specializing in Identity & Access Management. Hands-on experience with AWS IAM, Azure AD, Active Directory, and access governance. I build IAM solutions focused on Zero Trust architecture, privileged access management, and identity analytics.
-
-**Looking for IAM/PAM Engineer and GRC Analyst, Threat Vulnerability Management roles.**
-
-Doing free lance work as well please don't hesistate to message me . 
-
----
-
-## Experience
-
-**Threat & Vulnerability Management Engineer** | AlgOPro Solutions | Jan 2024 - Present
-- Enforce least privilege using SailPoint IdentityIQ and AWS IAM Access Analyzer
-- Configure ITDR rules in CrowdStrike Falcon for credential compromise and lateral movement detection
-- Investigate access incidents using Splunk, CloudTrail, Azure AD, and Active Directory logs
-
-**Cloud Security Engineer** | AlgOPro Solutions | Jan 2022 - Dec 2023
-- Built automated user provisioning/deprovisioning with Python, Boto3, AWS IAM, and Azure AD via Graph API
-- Analyzed IAM policies with AWS IAM Access Analyzer to find cross-account trust issues and wildcard permissions
-- Integrated CloudTrail and VPC Flow Logs with Splunk for IAM monitoring and privilege escalation detection
-
-**Cloud Support Engineer** | Amazon Web Services | Jan 2021 - Dec 2021
-- Resolved cross-account role assumption failures using IAM Policy Simulator and CloudTrail
-- Troubleshot SCP conflicts in AWS Organizations for enterprise customers
-- Debugged Lambda credential rotation scripts and Secrets Manager integrations
+<p align="center">
+  <a href="https://mikedominic-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:DominicMH@pm.me"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## Skills
+## About Me
 
-**Identity Platforms**
-Azure AD/Entra ID, Active Directory, Okta, AWS IAM, GCP IAM, SailPoint IdentityIQ
+Building **enterprise identity security at scale**. I architect Zero Trust solutions across AWS, Azure, and GCP for organizations managing thousands of identities and millions of entitlements.
 
-**Authentication & Protocols**
-SSO, MFA, OAuth 2.0, OIDC, SAML 2.0, SCIM, Conditional Access, FIDO2
+**Currently**: Leading IAM security initiatives including CIEM implementation, ITDR deployment, and IGA automation.
 
-**Identity Governance**
-Access Reviews, RBAC, Least Privilege, JML Lifecycle, Entitlement Management
-
-**Privileged Access Management**
-CyberArk, HashiCorp Vault, Just-in-Time Access, Credential Rotation
-
-**Automation & Tools**
-Python, Boto3, PowerShell, Terraform, Splunk, CrowdStrike Falcon
-
-**Compliance**
-Zero Trust Architecture, NIST 800-53, ISO 27001, SOC 2, ITDR
+**Open to**: Senior IAM Engineer, IAM Architect, and Identity Security Lead roles.
 
 ---
 
 ## Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| SC-100: Cybersecurity Architect Expert | Microsoft |
-| SC-300: Identity and Access Administrator | Microsoft |
-| AZ-500: Azure Security Engineer | Microsoft |
-| Professional Cloud Security Engineer | Google Cloud |
-| Certified Security Specialty | AWS |
-| Defender PAM | CyberArk |
-| Certified Professional | Okta |
-| IdentityIQ Associate | SailPoint |
-| Security+ | CompTIA |
-| CCNA | Cisco |
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-SC--100_Cybersecurity_Architect_Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SC-100"/>
+  <img src="https://img.shields.io/badge/Microsoft-SC--300_Identity_Administrator-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SC-300"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--500_Security_Engineer-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AZ-500"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Security_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP Security"/>
+  <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Security"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CyberArk-Defender_PAM-B5002C?style=flat-square" alt="CyberArk"/>
+  <img src="https://img.shields.io/badge/Okta-Certified_Professional-00297A?style=flat-square" alt="Okta"/>
+  <img src="https://img.shields.io/badge/SailPoint-IdentityIQ_Associate-0033A0?style=flat-square" alt="SailPoint"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="Security+"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
+</p>
 
 ---
 
-## Projects
+## Tech Stack
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AI-Access-Sentinel](https://github.com/MikeDominic92/ai-access-sentinel) | ITDR platform with ML anomaly detection and UEBA | Python, TensorFlow, FastAPI |
-| [ZeroTrust-IAM-Analyzer](https://github.com/MikeDominic92/ZeroTrust-IAM-Analyzer) | CIEM platform for excessive permissions and least-privilege scoring | Python, FastAPI, React |
-| [Entra-ID-Governance](https://github.com/MikeDominic92/entra-id-governance) | Microsoft Entra ID automation for Conditional Access and PIM | Python, Graph API, PowerShell |
-| [IAM-Immune-System](https://github.com/MikeDominic92/iam-immune-system) | Event-driven IAM security with machine identity monitoring | Python, AWS Lambda, EventBridge |
-| [Keyless-Kingdom](https://github.com/MikeDominic92/keyless-kingdom) | Passwordless CI/CD with OIDC federation across AWS/GCP/Azure | Terraform, GitHub Actions |
-| [PAM-Vault-Lab](https://github.com/MikeDominic92/pam-vault-lab) | HashiCorp Vault PAM lab for hands-on practice | Vault, Docker, Ansible |
-| [Okta-SSO-Hub](https://github.com/MikeDominic92/okta-sso-hub) | Multi-protocol SSO with SAML, OIDC, SCIM, and Passkeys | React, Flask, WebAuthn |
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Identity Platforms
+<p>
+<img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Active_Directory-003366?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Okta-00297A?style=flat-square&logo=okta&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP_IAM-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/SailPoint-0033A0?style=flat-square"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### Security & PAM
+<p>
+<img src="https://img.shields.io/badge/CyberArk-B5002C?style=flat-square"/>
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zero_Trust-00D9FF?style=flat-square"/>
+</p>
+
+</td>
+<td valign="top" width="33%">
+
+### Automation & IaC
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeDominic92&show_icons=true&theme=dark&hide_border=true)
+<table>
+<tr>
+<td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDominic92&layout=compact&theme=dark&hide_border=true)
+### [ZeroTrust IAM Analyzer](https://github.com/MikeDominic92/ZeroTrust-IAM-Analyzer)
+**Multi-Cloud CIEM Platform**
+
+<img src="https://raw.githubusercontent.com/MikeDominic92/ZeroTrust-IAM-Analyzer/master/docs/images/dashboard-new.png" width="100%"/>
+
+Enterprise CIEM for GCP & AWS with AWS IAM Access Analyzer integration. Detects excessive permissions, privilege escalation paths, and enforces least privilege.
+
+`Python` `FastAPI` `React` `AWS` `GCP`
+
+</td>
+<td width="50%">
+
+### [AI Access Sentinel](https://github.com/MikeDominic92/ai-access-sentinel)
+**Identity Threat Detection & Response**
+
+<img src="https://raw.githubusercontent.com/MikeDominic92/ai-access-sentinel/master/docs/images/dashboard-new.png" width="100%"/>
+
+ML-powered ITDR with CrowdStrike Falcon integration. Isolation Forest anomaly detection, UEBA risk scoring, and automated threat response.
+
+`Python` `TensorFlow` `CrowdStrike` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [IAM Immune System](https://github.com/MikeDominic92/iam-immune-system)
+**Event-Driven Security Automation**
+
+<img src="https://raw.githubusercontent.com/MikeDominic92/iam-immune-system/master/docs/images/immune-status-new.png" width="100%"/>
+
+Real-time IAM threat detection with SailPoint IGA integration. Auto-remediates public buckets, admin grants, and policy violations.
+
+`Python` `GCP Functions` `SailPoint` `ML`
+
+</td>
+<td width="50%">
+
+### [Entra ID Governance](https://github.com/MikeDominic92/entra-id-governance)
+**Microsoft Identity Governance Automation**
+
+<img src="https://raw.githubusercontent.com/MikeDominic92/entra-id-governance/master/docs/images/dashboard-new.png" width="100%"/>
+
+Splunk SIEM integration for Entra ID. Automated Conditional Access analysis, PIM governance, and access review orchestration.
+
+`Python` `PowerShell` `Graph API` `Splunk`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Keyless Kingdom](https://github.com/MikeDominic92/keyless-kingdom)
+**Multi-Cloud Workload Identity Federation**
+
+<img src="https://raw.githubusercontent.com/MikeDominic92/keyless-kingdom/master/docs/images/federation-overview-new.png" width="100%"/>
+
+Zero secrets CI/CD across AWS, GCP, and Azure using OIDC federation. Eliminates long-lived credentials entirely.
+
+`Terraform` `GitHub Actions` `OIDC` `Multi-Cloud`
+
+</td>
+<td width="50%">
+
+### [PAM Vault Lab](https://github.com/MikeDominic92/pam-vault-lab) | [Okta SSO Hub](https://github.com/MikeDominic92/okta-sso-hub)
+**Enterprise PAM & SSO Platforms**
+
+<img src="https://raw.githubusercontent.com/MikeDominic92/pam-vault-lab/master/docs/images/dashboard-new.png" width="100%"/>
+
+HashiCorp Vault PAM with AWS Secrets Manager sync. Okta Workflows automation with SAML/OIDC/SCIM.
+
+`Vault` `AWS Secrets` `Okta` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-*"I like to test things, break things, fix things, and find a more efficient way of doing things."*
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikeDominic92&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeDominic92&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeDominic92&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MikeDominic92&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <strong>Building enterprise identity security at scale.</strong>
+  <br/>
+  <sub>Open to consulting engagements and full-time opportunities.</sub>
+</p>
